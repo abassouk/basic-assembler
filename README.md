@@ -10,7 +10,7 @@ A very basic 68k assembler written in Amiga BASIC, ca 1989-90. This was created 
 * limited arithmetic support in operands
 * limited structure support
 
-And yes, reading the code might have and effect on your sanity - I think there's like 6 different passes.
+And yes, reading the code will cause a SAN check - I think there's like 6 different passes.
 
 --
 Tassos Bassoukos
